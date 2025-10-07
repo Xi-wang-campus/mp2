@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Very Cherry", "description": "Classic cherry flavor.", "image": "https://images.unsplash.com/photo-1588195536795-99d1b508b9a5?q=80&w=800&auto=format&fit=crop", "category": "fruit" },
+  { "id": 2, "name": "Green Apple", "description": "Tart green apple.", "image": "https://images.unsplash.com/photo-1541976590-713941681591?q=80&w=800&auto=format&fit=crop", "category": "fruit" },
+  { "id": 3, "name": "Buttered Popcorn", "description": "Savory buttered popcorn.", "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop", "category": "snack" },
+  { "id": 4, "name": "Berry Blue", "description": "Sweet blueberry mix.", "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=800&auto=format&fit=crop", "category": "fruit" },
+  { "id": 5, "name": "Lemon Drop", "description": "Bright lemon candy.", "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?q=80&w=800&auto=format&fit=crop", "category": "citrus" },
+  { "id": 6, "name": "Watermelon", "description": "Juicy summer taste.", "image": "https://images.unsplash.com/photo-1562166433-d6f6f3caa28f?q=80&w=800&auto=format&fit=crop", "category": "fruit" },
+  { "id": 7, "name": "Coconut", "description": "Smooth coconut.", "image": "https://images.unsplash.com/photo-1556228724-4a21f51d6c89?q=80&w=800&auto=format&fit=crop", "category": "tropical" },
+  { "id": 8, "name": "Pina Colada", "description": "Pineapple + coconut.", "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?q=80&w=800&auto=format&fit=crop", "category": "tropical" },
+  { "id": 9, "name": "Strawberry Cheesecake", "description": "Dessert-inspired.", "image": "https://images.unsplash.com/photo-1511911063855-2bf39afa5b80?q=80&w=800&auto=format&fit=crop", "category": "dessert" },
+  { "id": 10, "name": "Sour Grape", "description": "Tangy grape.", "image": "https://images.unsplash.com/photo-1553154531-0265b9775a26?q=80&w=800&auto=format&fit=crop", "category": "fruit" }
+]
+
+
