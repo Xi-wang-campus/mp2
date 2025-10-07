@@ -2,6 +2,7 @@
   "name": "mp2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://xi-wang-campus.github.io/mp2",
   "proxy": "https://jelly-belly-wiki.netlify.app",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
