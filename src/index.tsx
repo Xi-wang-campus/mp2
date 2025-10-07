@@ -8,9 +8,13 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
+
+// 只在生产环境使用 basename，本地开发保持正常
+const basename = process.env.NODE_ENV === 'production' ? '/mp2' : '';
+
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/mp2">
+    <BrowserRouter basename={basename}>
       <App />
     </BrowserRouter>
   </React.StrictMode>
