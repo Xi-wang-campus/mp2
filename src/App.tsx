@@ -12,7 +12,6 @@ function App() {
       <nav className="container" style={{ display: 'flex', gap: 12, paddingTop: 16 }}>
         <NavLink className={({ isActive }) => `btn ${isActive ? 'btn--solid' : ''}`} to={'/'} end>List</NavLink>
         <NavLink className={({ isActive }) => `btn ${isActive ? 'btn--solid' : ''}`} to={'/gallery'}>Gallery</NavLink>
-        <Link className={'btn'} to={'/'}>Home</Link>
       </nav>
       <Routes>
         <Route path="/" element={<ListView />} />
